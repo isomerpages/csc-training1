@@ -9,8 +9,8 @@ description: ""
 	<li>Something</li>
 	<li> Anything</li>
 	</ul>
-	
-	<ol>
-		<li>Something</li>
-	<li> Anything</li>
+
+<ol>
+	<li>Something</li>
 	</ol>
+	
