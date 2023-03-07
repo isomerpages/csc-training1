@@ -3,8 +3,13 @@ links:
   - title: Learning at CSC
     url: /learning-at-csc
   - title: Ethos
-    collection: example-folder
+    url: /ethos
+    sublinks:
+      - title: Knowledge Hub
+        url: /ethos/knowledgehub
   - title: HTML test
     url: /htmltest
   - title: Contact Us
     url: /contact-us/
+  - title: Who We Are
+    collection: example-folder
