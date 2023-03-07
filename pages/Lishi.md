@@ -5,8 +5,8 @@ description: ""
 ---
 <table>
 	<tr>
-		<td><img src="/images/hero-banner.png" style="width:50px"></td>
-		<td><img src="/images/hero-banner.png" style="width:50px"> </td>
+		<td><img src="/images/hero-banner.png" style="width:500px"></td>
+		<td><img src="/images/hero-banner.png" style="width:500px"> </td>
 	</tr>
 	<tr> Photo.
 		<td>This is a picture</td>
