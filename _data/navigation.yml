@@ -6,7 +6,5 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
-  - title: Test
-    url: /lishi
   - title: HTML test
     url: /HTMLTest
