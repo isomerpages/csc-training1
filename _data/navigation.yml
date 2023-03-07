@@ -8,3 +8,5 @@ links:
     collection: example-folder
   - title: Test
     url: /lishi
+  - title: HTML test
+    url: /HTMLTest
