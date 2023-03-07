@@ -19,9 +19,6 @@ description: ""
 
 
 <table>
-	<td><img src="/images/hero.banner.png" style="width:500px;"></td>
-		<td><img src="/images/hero.banner.png" style="width:500px;"></td>
-	</tr>
 		<tr>
 	<td>this is a picture</td>
 	<td>this is a picture</td>
