@@ -37,3 +37,5 @@ description: ""
 		<td><img src="images/isomer-logo.svg"></td>
 	</tr>
 </table>
+
+<img src="images/hero-banner.png">
