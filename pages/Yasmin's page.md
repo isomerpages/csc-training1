@@ -36,6 +36,12 @@ description: ""
 		<td><img src="images/isomer-logo.svg"></td>
 		<td><img src="images/isomer-logo.svg"></td>
 	</tr>
+	<tr>
+		<td><img src="images/isomer-logo.svg"></td>
+		<td><img src="images/hero-banner.png"> </td>
+		</tr>
 </table>
 
-<img src="images/hero-banner.png">
+
+
+<img src="images/hero-banner.png" style="width:500px;">
