@@ -41,7 +41,5 @@ description: ""
 		<td><img src="images/hero-banner.png"> </td>
 		</tr>
 </table>
-
-
-
+<br>
 <img src="images/hero-banner.png" style="width:500px;">
