@@ -1,0 +1,13 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: Learning at ABC
+    url: /learning-at-csc
+  - title: Ethos
+    url: /ethos
+    sublinks:
+      - title: Knowledge Hub
+        url: /ethos/knowledgehub
+  - title: Contact Us
+    url: /contact-us/
+  - title: Who We Are
+    url: /who-we-are
